@@ -1,6 +1,6 @@
 # COIN_SORT_WASM2
 
-Same functinoality as <https://github.com/ChrisWhealy/coin_sort_wasm> but this project imports the WASM module into the browser and executes it directly.  This allows the public functions in the WASM module (denoted in the Rust module using the directive `#[wasm_bindgen]`) to be called directly from JavaScript
+Same functionality as <https://github.com/ChrisWhealy/coin_sort_wasm> but this project imports the WASM module into the browser and executes it directly.  This allows the public functions in the WASM module (denoted in the Rust module using the directive `#[wasm_bindgen]`) to be called directly from JavaScript
 
 ## Compilation
 
@@ -18,5 +18,5 @@ Open your browser and visit `http://0.0.0.0:8000/`
 
 ## Configuration
 
-To change teh number of coins in the purse, edit `index.html` and change the integer value passed to `coin_counter()` on line 25
+To change the number of coins in the purse, edit `index.html` and change the integer value passed to `coin_counter()` on line 25
 
