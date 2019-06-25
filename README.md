@@ -20,7 +20,9 @@ The easiest way to run this is to start a local Web server using Python:
 
 Open your browser and visit <http://0.0.0.0:8000/>
 
-## Configuration
+![Start screen](./img/Screenshot 1.png)
 
-To change the number of coins in the purse, edit `index.html` and change the integer value passed to `coin_counter()` on line 25
+Enter an integer value in the inout field and press "Calculate!"
+
+![Result screen](./img/Screenshot 2.png)
 
