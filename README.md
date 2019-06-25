@@ -22,7 +22,7 @@ Open your browser and visit <http://0.0.0.0:8000/>
 
 ![Start screen](./img/Screenshot%201.png)
 
-Enter an integer value in the inout field and press "Calculate!"  
+Enter an integer value in the input field and press "Calculate!"  
 
 ![Result screen](./img/Screenshot%202.png)
 
