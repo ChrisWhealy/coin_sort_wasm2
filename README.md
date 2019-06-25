@@ -18,11 +18,11 @@ The easiest way to run this is to start a local Web server using Python:
 
 `python3 -m http.server`
 
-Open your browser and visit <http://0.0.0.0:8000/>
+Open your browser and visit <http://0.0.0.0:8000/>   
 
-![Start screen](./img/Screenshot 1.png)
+![Start screen](./img/Screenshot%201.png)
 
-Enter an integer value in the inout field and press "Calculate!"
+Enter an integer value in the inout field and press "Calculate!"  
 
-![Result screen](./img/Screenshot 2.png)
+![Result screen](./img/Screenshot%202.png)
 
